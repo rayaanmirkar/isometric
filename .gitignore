@@ -1,0 +1,5 @@
+isometric.egg-info/
+__pycache__/
+.vscode/
+*.pyc
+iso_*/

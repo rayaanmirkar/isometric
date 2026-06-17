@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "isometric"
+version = "0.1.0"
+description = "Recreate any research environment from a repo or paper"
+requires-python = ">=3.10"
+dependencies = [
+    "typer",
+    "rich",
+    "gitpython",
+]
+
+[project.scripts]
+iso = "iso.cli:app"
