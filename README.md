@@ -4,4 +4,4 @@ Isometric is a comprehensive CLI (command-line interface) tool that allows resea
 
 Isometric targets common pain points for researcher trying to replicate and clone code for their own experimentation, such as mismatched Python versions, CUDA requirements, or even entirely missing library versions.
 
-# Operation Requirements
+<h2 align="center">Requirements</h1>
