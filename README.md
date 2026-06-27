@@ -14,8 +14,7 @@ iso recreate <username/repo-name>
 
 ```
 
-<h3 align="center">Requirements</h3>
-
+# Requirements
 To run Isometric, you need:
 
 - Python 3.10+
@@ -24,6 +23,7 @@ To run Isometric, you need:
 - Ollama (or any local LLM model)
 - Network/WiFi access.
 
+# Installation
 
 
 
