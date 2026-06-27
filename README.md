@@ -14,7 +14,7 @@ iso recreate <username/repo-name>
 
 ```
 
-<h2 align="center">Requirements</h2>
+<h3 align="center">Requirements</h3>
 
 To run Isometric, you need:
 
@@ -23,6 +23,8 @@ To run Isometric, you need:
 - Conda (preferably Miniconda)
 - Ollama (or any local LLM model)
 - Network/WiFi access.
+
+
 
 
 
