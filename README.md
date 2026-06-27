@@ -4,4 +4,16 @@ Isometric is a comprehensive CLI (command-line interface) tool that allows resea
 
 Isometric targets common pain points for researcher trying to replicate and clone code for their own experimentation, such as mismatched Python versions, CUDA requirements, or even entirely missing library versions.
 
-<h2 align="center">Requirements</h1>
+# Quick Run
+
+To quickly clone a repository run the following command
+
+```powershell
+
+iso recreate <username/repo-name>
+
+```
+
+<h2 align="center">Requirements</h2>
+
+To run Isometric,
