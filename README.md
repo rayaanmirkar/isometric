@@ -16,4 +16,14 @@ iso recreate <username/repo-name>
 
 <h2 align="center">Requirements</h2>
 
-To run Isometric,
+To run Isometric, you need:
+
+- Python 3.10+
+- Git
+- Conda (preferably Miniconda)
+- Ollama (or any local LLM model)
+- Network/WiFi access.
+
+
+
+
