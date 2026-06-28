@@ -34,6 +34,8 @@ Clone:
   git clone https://github.com/rayaanmirkar/isometric
   cd isometric
   ```
+
+OR, download the release on the left hand side.
     
 2. Install Isometric:
 From the project's root folder:
