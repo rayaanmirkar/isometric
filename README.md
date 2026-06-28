@@ -10,12 +10,12 @@ To quickly clone a repository run the following command
 
 ```powershell
 
-iso recreate <username/repo-name>
+iso recreate <github-link>
 
 ```
 
 # Requirements
-To run Isometric, you need:
+To run Isometric, you'll need:
 
 - Python 3.10+
 - Git
@@ -24,6 +24,20 @@ To run Isometric, you need:
 - Network/WiFi access.
 
 # Installation
+
+1. Clone the repo (rayaanmirkar/isometric)
+  Clone:
+  ```powershell
+  git clone https://github.com/rayaanmirkar/isometric
+  cd isometric
+  ```
+2. Install Isometric:
+   From the project's root folder:
+   ```powershell
+   pip install -e .
+   ```
+   This will register the iso command.
+   
 
 
 
